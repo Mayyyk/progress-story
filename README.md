@@ -1,7 +1,7 @@
 # progress-story
 I'm sharing my progress in becoming a developer.
 
-# previous to 1st of December 2024:
+# state before December 1st, 2024:
 Entry-level experience:
 - AI agents
 - Python
@@ -12,7 +12,7 @@ Entry-level experience:
 Intermediate level:
 - Maths
 
-# Goals to the 30th of June 2025:
+# Goals to achieve before 30th of June 2025:
 Main objective is to get to first $10k month.
 
 Get decent at:
