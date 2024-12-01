@@ -25,6 +25,11 @@ Become very solid developer with broad range of conctepts and areas that I under
 Then focus on narrowing down. Potential niche for now - usage of ML in smart contracts security. 
 Combining Maths with Security with Machine Learning.
 
+# To-do asap:
+- previous projects description on LinkedIn/Twitter
+- join communities, network with people, see what they need and offer them my help
+
+
 # 1st of December 2024, 210 days left
 What I've done today:
 - create a first draft of AI agent for website creation
