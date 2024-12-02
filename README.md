@@ -40,3 +40,6 @@ What I've done today:
 
 # 2nd of December 2024, 209 days left
 What I've done today:
+- completed web3 course: https://academy.zerotomastery.io/courses/introduction-to-web3
+- continued python basics
+- introduction to web development
