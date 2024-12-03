@@ -43,3 +43,16 @@ What I've done today:
 - completed web3 course: https://academy.zerotomastery.io/courses/introduction-to-web3
 - continued python basics
 - introduction to web development
+- introduction to ethical hacking
+
+# 3rd of December 2024, 208 days left
+What I've done today:
+- gained massive WEB3/blockchain clarity
+- got ovet initial/intermediate HTML, CSS
+- intro to more advanced JavaScript
+- better understanding of complex numbers
+- understood pointers in C
+
+# 4th of December 2024, 207 days left
+What I've done today:
+- 
