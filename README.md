@@ -55,4 +55,16 @@ What I've done today:
 
 # 4th of December 2024, 207 days left
 What I've done today:
+- understood JS on a deeper level
+- organized a lot of chaos, made clear plan on learning everything
+- learned solidly github
+- learned and understood whole packages/modules system (node)
+- intro to react
+- solid research on current state of WEB DEV marketplace
+  
+# 5th of December 2024, 206 days left
+What I've done today:
+- build and deployed my first full react app
 - 
+
+  
