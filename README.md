@@ -89,8 +89,12 @@
 
 ## 🗓 **December 5th, 2024 — 206 Days Left**
 ### **✔️ What I Did Today**
-- 🛠 Built and deployed my **first full React app**.  
-- ...
+- 🛠 Built and deployed my **first full React app**
+- Learned React Hooks
+- Learned Async JS
+- Intro to backend 
+- Finished course on linear algebra and summarized learnings so far
+- Gathered clear academic resources to learn from
 
 ---
 
