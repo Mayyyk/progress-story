@@ -95,6 +95,24 @@
 - Intro to backend 
 - Finished course on linear algebra and summarized learnings so far
 - Gathered clear academic resources to learn from
+  
+## 🗓 **December 6th, 2024 — 205 Days Left**
+### **✔️ What I Did Today**
+- got solid grasp of react components
+- spend time learning about maths fields and algebra
+ 
+## 🗓 **December 5th, 2024 — 204 Days Left**
+### **✔️ What I Did Today**
+- intro to databases and created and connected database to the brain app
+- finished backed server
+- set up gen AI api
+- got into deployment
+
+## 🗓 **December 5th, 2024 — 203 Days Left**
+### **✔️ What I Did Today**
+- fully deployed the first app
+- deepen understanding of linear algebra and physics
+- started senior developer course 
 
 ---
 
