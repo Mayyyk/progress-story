@@ -95,11 +95,15 @@
 - Intro to backend 
 - Finished course on linear algebra and summarized learnings so far
 - Gathered clear academic resources to learn from
+
+---
   
 ## 🗓 **December 6th, 2024 — 205 Days Left**
 ### **✔️ What I Did Today**
 - got solid grasp of react components
 - spend time learning about maths fields and algebra
+
+---
  
 ## 🗓 **December 7th, 2024 — 204 Days Left**
 ### **✔️ What I Did Today**
@@ -108,23 +112,38 @@
 - set up gen AI api
 - got into deployment
 
+---
+
 ## 🗓 **December 8th, 2024 — 203 Days Left**
 ### **✔️ What I Did Today**
 - fully deployed the first app
 - deepen understanding of linear algebra and physics
 - started senior developer course
 
+---
+
 ## 🗓 **December 9th, 2024 — 202 Days Left**
 - spent whole day learning linear algebra, its usage and core concepts, deep understanding
 - fully understood calculus exercises
 - finally seriously got into fight with physics
 
+---
+
 ## 🗓 **December 10th, 2024 — 201 Days Left**
 - solid few hours battling physics and made signifficant wins, progress
 - spend a few hours building travel-agent app
 
+---
+
 ## 🗓 **December 11th, 2024 — 200 Days Left**
-- 
+- a lot of algebra and wins in doing exercises
+- intro to ssh
+
+---
+
+## 🗓 **December 12th, 2024 — 199 Days Left**
+- a lot of algebra and wins in doing exercises
+- intro to ssh
 
 ---
 
