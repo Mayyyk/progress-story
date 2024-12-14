@@ -142,8 +142,25 @@
 ---
 
 ## 🗓 **December 12th, 2024 — 199 Days Left**
-- a lot of algebra and wins in doing exercises
-- intro to ssh
+- trained calculus and seen progress in abstract linear algebra understanding
+- understanding of webiste performance factors
+
+---
+  
+## 🗓 **December 13th, 2024 — 198 Days Left**
+- getting deeply into node - its entire inner system
+- win in the algebra test
+- ideas about real life engineering
+
+---
+
+## 🗓 **December 14th, 2024 — 197 Days Left**
+- day free, just thought about what to do next
+
+---
+
+## 🗓 **December 15th, 2024 — 196 Days Left**
+- day free, just thought about what to do next
 
 ---
 
