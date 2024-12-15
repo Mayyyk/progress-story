@@ -155,12 +155,12 @@
 ---
 
 ## 🗓 **December 14th, 2024 — 197 Days Left**
-- day free, just thought about what to do next
+- day off
 
 ---
 
 ## 🗓 **December 15th, 2024 — 196 Days Left**
-- day free, just thought about what to do next
+- day off, and aggresive drive toward next period
 
 ---
 
