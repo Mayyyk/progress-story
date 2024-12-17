@@ -164,6 +164,19 @@
 
 ---
 
+## 🗓 **December 16th, 2024 — 195 Days Left**
+- series convergance
+- calculus course
+
+---
+
+## 🗓 **December 17th, 2024 — 194 Days Left**
+- express js
+- physics - pendulum, integrals, derivatives, taylor series
+- calculus
+
+---
+
 > **✨ Note:** Logs will be updated daily to track progress and reflect on key takeaways.
 
 ---
